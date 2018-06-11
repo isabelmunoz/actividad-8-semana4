@@ -1,0 +1,135 @@
+.jumbotron{
+	background-image: url(../images/bg.jpeg);
+	background-size: cover;
+	color: white;
+	}
+
+.jumbotron img{
+	width: 15%;
+	position: relative;
+	left:70px;
+}
+.jumbotron ul{
+	position: relative;
+	bottom: 60px;
+	right: 80px;
+}
+.jumbotron p{
+    margin-top: 0;
+    width: 80%;
+    text-align: center;
+    padding-left: 250px;
+}
+.nav-item a{
+    color: white;
+}
+.display-4{
+	text-align: center;
+    width: 40%;
+    font-size: 2rem;
+    margin: auto;
+    padding-top: 20px;
+}
+.display-4 span{
+    text-align: center;
+    display: block;
+}
+.btn{
+	position: relative;
+	top: 35px;
+    left: 500px;
+    margin-right: 6px;	
+}
+.jumbotron p{
+	font-size: 1rem;
+	position: relative;
+	top: 50px;
+}
+.card{
+    border: none;
+}
+
+.card-title , .card-text {
+	width: 70%;
+	text-align: center;
+	margin-left: 140px;
+}
+.card-img-bottom{
+	width: 40%;
+}
+.card-body{
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 100px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+}
+.card-img-bottom{
+	width: 30%;
+
+}
+#textocentral{
+	width: 60%;
+	padding-left: 60px;
+}
+#btn3{
+	position: relative;
+	left: -45px;
+	top: 0px;
+}
+#bloque2parr2{
+	position: relative;
+
+	top: 15px;
+	left: -45px;
+}
+
+#caja{
+    background-color: #F7F9F7;
+	border: 2px solid #E0E7E0;
+	height: 260px;
+
+}
+.row{
+	width: 100%;
+	margin:0;
+}
+.col-lg-3{
+	float: left;
+    position: relative;
+    left: 250px;
+    padding: 50px 0 70px 0;
+}
+.col-lg-3 a{
+	color: #0F5DDC;
+}
+.col-lg-3 h3{
+	position: relative;
+    left: 40px;
+    width: 100px;
+    display: inline;
+ 
+}
+.col-lg-3 h3{
+	position: relative;
+    left: 40px;
+    width: 100px;
+    display: inline;
+ 
+}
+
+h3{
+	position: relative;
+    left: 0px;
+    width: 100px;
+}
+
+.col-lg-3 ul{
+	list-style-type: none;
+}
+
+footer{
+	color: white;
+	background-color: black;
+	padding-left: 150px;
+
